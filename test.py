@@ -47,5 +47,7 @@ print("RIY : ", result["Riy"])
 #                                "charges": []})
 #print("Final balance : £", result["Final_balance"])
 #print("Final charges taken : £", result["Balance_of_charges"])
+
 #Hello its adam :)
 #2+2=4"
+# This was kelly
